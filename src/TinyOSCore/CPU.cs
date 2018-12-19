@@ -113,7 +113,6 @@ namespace Hanselman.CST352
 			get { return bitFlagRegisters[1]; }
 			set	{ bitFlagRegisters[1] = value; }
 		}
-
 		/// <summary>
 		/// Public get/set accessor for Stack Pointer
 		/// </summary>
