@@ -29,7 +29,6 @@ Scott Hanselman
 
 [scott@hanselman.com](mailto:scott@hanselman.com)
 
-May 2002
 
 ## What's the jist?
 
